@@ -1,4 +1,4 @@
-![logo](https://github.com/Tafseer0/Tafseer0/blob/main/Github%20Banner.jpg)
+![logo](https://github.com/Tafseer0/Tafseer0/blob/main/github_profile.gif)
 <h1 align="center">Hi 👋, I'm Tafseer Alam</h1>
 <h3 align="center">A passionate Machine Learning and Data Science Engineer from India.</h3>
 <img align="right" alt="Coding" width="400" hight="600" src="(https://github.com/Tafseer0/Tafseer0/blob/main/github_profile.gif)">
